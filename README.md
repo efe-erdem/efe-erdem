@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @efe-erdem
-- 👀 I’m interested in ios and swift
-- 🌱 I’m currently learning swift
+- 👀 I’m interested in data science
+- 🌱 I’m currently improving my skills in Data Analysis
